@@ -36,10 +36,10 @@ The project uses **Django** for the backend and **Bootstrap** for styling to pro
 ## Screenshots
 
 ### Homepage
-![Homepage](screenshot1.png)
+![Homepage](images/home.PNG)
 
 ### Registration Page
-![Registration](screenshot2.png)
+![Registration](images/register.PNG)
 
 ### Transaction History
-![Transaction History](screenshot3.png)
+![Transaction History](images/transactions.PNG)
